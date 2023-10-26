@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/ProHouse/static/css/main.958ee90e.css",
+    "main.js": "/ProHouse/static/js/main.4a1e476b.js",
+    "static/media/fa-solid-900.ttf": "/ProHouse/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
+    "static/media/fa-brands-400.ttf": "/ProHouse/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
+    "static/media/fa-solid-900.woff2": "/ProHouse/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
+    "static/media/bohdan-d-fh6o-XkVQG8-unsplash.webp": "/ProHouse/static/media/bohdan-d-fh6o-XkVQG8-unsplash.6226e4b7478621afe63f.webp",
+    "static/media/fa-brands-400.woff2": "/ProHouse/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
+    "static/media/john-o-nolan-6f_ANCcbj3o-unsplash.webp": "/ProHouse/static/media/john-o-nolan-6f_ANCcbj3o-unsplash.676cce1b6cc2014b9070.webp",
+    "static/media/fa-regular-400.ttf": "/ProHouse/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
+    "static/media/julia-solonina-ci19YINguoc-unsplash.webp": "/ProHouse/static/media/julia-solonina-ci19YINguoc-unsplash.c53fae2aab68f7b968d9.webp",
+    "static/media/theater-amazonas-manaus.webp": "/ProHouse/static/media/theater-amazonas-manaus.acd08f13cd0a5cdd57cd.webp",
+    "static/media/fa-regular-400.woff2": "/ProHouse/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
+    "static/media/picture-of-a-wooden-building-in-the-forest.webp": "/ProHouse/static/media/picture-of-a-wooden-building-in-the-forest.9cdaef016ef2e483b0cf.webp",
+    "static/media/david-kovalenko-9-qFzV9a2Zc-unsplash.webp": "/ProHouse/static/media/david-kovalenko-9-qFzV9a2Zc-unsplash.c12ec70825fd6e818c4d.webp",
+    "static/media/pexels-rachel-claire-8112843 1.webp": "/ProHouse/static/media/pexels-rachel-claire-8112843 1.f9cf83fb6a3422f5b53a.webp",
+    "static/media/house_big.webp": "/ProHouse/static/media/house_big.7400802a5f372ef00222.webp",
+    "static/media/fa-v4compatibility.ttf": "/ProHouse/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
+    "static/media/house_big-1.webp": "/ProHouse/static/media/house_big-1.28a5c1f44f87c9bb529d.webp",
+    "static/media/pexels-stan-krotov-12737424 1.webp": "/ProHouse/static/media/pexels-stan-krotov-12737424 1.de60fd3a598a691ab3ee.webp",
+    "static/media/fa-v4compatibility.woff2": "/ProHouse/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
+    "static/media/02.webp": "/ProHouse/static/media/02.9c5aa03b1e7e15c18a46.webp",
+    "static/media/01.webp": "/ProHouse/static/media/01.2900d4cd9ff398bdd493.webp",
+    "static/media/03.webp": "/ProHouse/static/media/03.8fd227ff0d02922243d1.webp",
+    "static/media/04.webp": "/ProHouse/static/media/04.98bbc629678a9ac41ec6.webp",
+    "index.html": "/ProHouse/index.html",
+    "main.958ee90e.css.map": "/ProHouse/static/css/main.958ee90e.css.map",
+    "main.4a1e476b.js.map": "/ProHouse/static/js/main.4a1e476b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.958ee90e.css",
+    "static/js/main.4a1e476b.js"
+  ]
+}
